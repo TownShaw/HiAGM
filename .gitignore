@@ -1,0 +1,17 @@
+# IDE
+.vscode
+
+# cache files
+**/__pycache__/
+
+# data
+**/vocab/
+**/data/
+glove.6B.300d.txt
+
+# model
+rcv1_hiagm_treetp_checkpoint/
+
+# logs
+rcv1-v2.log
+tree-rcv1-v2.log
